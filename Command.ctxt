@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getRestOfLine()
+comment0.text=\n\ Returns\ the\ second\ word\ of\ this\ command,\ if\ it\ exists.\n\ \n\ @return\ The\ second\ word\ of\ this\ command.\ Returns\ null\ if\ there\ was\ no\n\ \ \ \ \ \ \ \ \ second\ word.\n
+comment1.params=
+comment1.target=boolean\ isUnknown()
+comment1.text=\n\ Returns\ if\ this\ command\ was\ not\ understood.\n\ \n\ @return\ true\ if\ this\ command\ was\ not\ understood.\n
+comment2.params=
+comment2.target=boolean\ hasSecondWord()
+comment2.text=\n\ Returns\ if\ this\ command\ has\ a\ second\ word.\n\ \n\ @return\ true\ if\ the\ command\ has\ a\ second\ word.\n
+comment3.params=index
+comment3.target=java.lang.String\ getWord(int)
+comment3.text=\n\ Returns\ the\ word\ at\ the\ requested\ index\ in\ the\ command.\n\ \n\ @param\ index\n\ \ \ \ \ \ \ \ \ \ \ \ The\ index\ of\ word\ in\ the\ command\ that\ is\ being\ requested.\n\ \n\ @return\ A\ particular\ word\ in\ the\ command.\ Returns\ null\ if\ there\ is\ no\n\ \ \ \ \ \ \ \ \ word\ corresponding\ to\ that\ requested\ index.\n\ \n
+numComments=4

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ description\ weight\ healingEffect
+comment0.target=Food(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Contructs\ a\ potion.\n\ \n\ @param\ name\ The\ potions\ name.\n\ @param\ description\ The\ potions\ description.\n\ @param\ weight\ The\ potions\ weight.\n\ @param\ healingEffect\ How\ many\ points\ of\ health\ the\ potion\ will\ cure.\n
+comment1.params=
+comment1.target=int\ getHealthEffect()
+comment1.text=\n\ Accessor\ for\ the\ potions\ health\ effect.\n\ \n\ @return\ The\ healing\ effect\ of\ the\ potion.\n
+numComments=2

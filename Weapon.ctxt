@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ description\ weight\ hitPoints
+comment0.target=Weapon(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructs\ a\ weapon.\n\ \n\ @param\ name\ The\ name\ of\ the\ weapon.\n\ @param\ description\ The\ description\ of\ the\ weapon.\n\ @param\ weight\ The\ weight\ of\ the\ weapon.\n\ @param\ hitPoints\ How\ many\ extra\ points\ the\ weapon\ adds\ to\ the\ player's\ base\ damage.\n
+comment1.params=
+comment1.target=int\ getHitPoints()
+comment1.text=\n\ Accessor\ for\ the\ weapon's\ extra\ hit\ points.\n\ \n\ @return\ The\ extra\ hit\ points.\n
+numComments=2

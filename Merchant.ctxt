@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ conversation
+comment0.target=Merchant(java.lang.String,\ Conversation)
+comment0.text=\n\ Contructs\ a\ Merchant.\n\ \n\ @param\ name\ The\ Merchant's\ name.\n\ @param\ conversation\ The\ Merchant's\ conversation\ dialogue.\n
+comment1.params=key\ value\ price
+comment1.target=void\ addMerchandise(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\n\ Adds\ merchandise\ to\ a\ Merchant.\n\ \n\ @param\ key\ The\ name\ of\ the\ item\n\ @param\ value\ The\ final\ response\ dealing\ with\ the\ item\ from\ within\ the\ conversation.\n\ @param\ price\ The\ price\ of\ the\ item.\n
+comment2.params=key
+comment2.target=Item\ getItem(java.lang.String)
+comment2.text=\n\ Accessor\ for\ the\ Merchant's\ item.\n\ \n\ @param\ key\ The\ item's\ name.\n\ @return\ The\ item\ to\ be\ removed\ from\ the\ Merchant's\ inventory.\n
+comment3.params=value
+comment3.target=java.lang.Integer\ getPrice(java.lang.String)
+comment3.text=\n\ Accessor\ for\ the\ item's\ price.\n\ \n\ @param\ value\ The\ item's\ final\ response\ value.\n\ @return\ The\ item's\ price.\n
+numComments=4

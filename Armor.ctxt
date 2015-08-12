@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ description\ weight\ damageReduction
+comment0.target=Armor(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Constructs\ a\ piece\ of\ armor.\n\ \n\ @param\ name\ The\ name\ of\ the\ armor.\n\ @param\ description\ The\ armor's\ description.\n\ @param\ weight\ The\ armor's\ weight.\n\ @param\ damageReduction\ The\ armor's\ overall\ effect.\n
+comment1.params=
+comment1.target=int\ getHealthEffect()
+comment1.text=\n\ Accessor\ for\ the\ armor's\ health\ effect.\n\ \n\ @return\ The\ enemy's\ damage\ reduction.\n
+numComments=2

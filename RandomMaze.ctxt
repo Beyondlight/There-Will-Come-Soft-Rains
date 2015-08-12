@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=name\ description\ requiredCount
+comment0.target=RandomMaze(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ Constructs\ the\ Wilderness.\n\ \n\ @param\ name\ The\ name\ of\ the\ Wilderness.\n\ @param\ description\ The\ Wilderness's\ description.\n\ @param\ requiredCount\ The\ amount\ of\ screens\ required\ in\ order\ to\ leave.\n
+comment1.params=
+comment1.target=void\ generateRandomExits()
+comment1.text=\n\ Generates\ the\ exits\ for\ the\ Wilderness.\n
+comment2.params=
+comment2.target=Monster\ generateMonster()
+comment2.text=\n\ Generates\ a\ monster\ for\ the\ Wilderness.\n\ \n\ @return\ The\ monter\ encountered\ in\ that\ part\ of\ the\ Wilderness.\n
+comment3.params=direction\ neighbor
+comment3.target=void\ setExit(java.lang.String,\ Door)
+comment3.text=\n\ Define\ an\ exit\ from\ this\ room.\n\n\ @param\ direction\ The\ direction\ of\ the\ exit.\n@param\ neighbor\ The\ door\ in\ the\ given\ direction.
+comment4.params=direction
+comment4.target=Door\ getExit(java.lang.String)
+comment4.text=\n\ Returns\ the\ direction\ of\ the\ exits.\n\ \n\ @param\ direction\ The\ direction\ the\ exits\ are.\n\ @return\ The\ direction\ the\ exits\ are.\n
+comment5.params=monster
+comment5.target=void\ addMonster(Monster)
+comment5.text=\n\ Adds\ a\ monster\ to\ the\ Wilderness.\n\ \n\ @param\ monster\ The\ monster\ being\ added.\n
+numComments=6

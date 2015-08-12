@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=commandWord
+comment0.target=CommandEnum(java.lang.String)
+comment0.text=\n\ The\ constructor\ of\ the\ enumeration.\n\ \n\ @param\ commandWord\ The\ command\ word.\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Accessor\ for\ the\ name\ of\ the\ CommandEnum\ object.\n\ \n\ @return\ The\ command\ word.\n
+numComments=2

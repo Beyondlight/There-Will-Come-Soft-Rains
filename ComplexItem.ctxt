@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=itemName\ itemDesc\ itemWeight
+comment0.target=ComplexItem(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ Creates\ a\ complex\ item.\n\ \n\ @param\ itemName\ The\ name\ of\ the\ complex\ item.\n\ @param\ itemDesc\ The\ description\ of\ the\ complex\ item.\n\ @param\ itemWeight\ The\ weight\ the\ of\ complex\ item.\n
+comment1.params=item
+comment1.target=void\ addItem(Item)
+comment1.text=\n\ Adds\ an\ item\ to\ the\ complex\ item.\n\ \n\ @param\ item\ The\ item\ being\ stored\ in\ the\ complex\ item.\n
+comment2.params=
+comment2.target=java.lang.String[]\ getItemNames()
+comment2.text=\n\ Returns\ the\ names\ of\ the\ items\ within\ the\ complex\ item.\n\ \n\ @return\ The\ names\ of\ the\ items.\n
+comment3.params=itemName
+comment3.target=Item\ getItem(java.lang.String)
+comment3.text=\n\ Gets\ information\ of\ a\ specific\ item.\n\ \n\ @param\ itemName\ The\ selected\ item.\n\ \n\ @return\ The\ information\ of\ the\ item.\n
+comment4.params=name
+comment4.target=Item\ removeItem(java.lang.String)
+comment4.text=\n\ Removes\ an\ item\ from\ the\ ArrayList.\n\ \n\ @param\ name\ The\ name\ of\ the\ item\ to\ be\ removed.\n\ @return\ The\ item\ that\ was\ removed.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Returns\ a\ string\ representing\ the\ complex\ item.\n\ \n\ @return\ The\ string\ literal,\ representing\ the\ complex\ item.\n
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ description\ weight\ quanta
+comment0.target=BottleCaps(java.lang.String,\ java.lang.String,\ int,\ int)
+comment0.text=\n\ Contructs\ Bottle\ Caps.\n\ \n\ @param\ name\ The\ Quanta's\ name.\n\ @param\ description\ The\ Quanta's\ description.\n\ @param\ weight\ The\ Quanta's\ weight.\n\ @param\ quanta\ The\ amount\ of\ Quanta.\n
+comment1.params=
+comment1.target=int\ getAmount()
+comment1.text=\n\ The\ accessor\ for\ the\ amount\ of\ Quanta.\n\ \n\ @return\ The\ amount\ of\ Quanta.\n
+comment2.params=removeAmount
+comment2.target=BottleCaps\ removeAmount(int)
+comment2.text=\n\ Removes\ a\ particular\ amount\ of\ Quanta.\n\ \n\ @param\ removeAmount\ The\ amount\ being\ removed.\n\ @return\ The\ amount\ being\ removed.\n
+comment3.params=addAmount
+comment3.target=void\ addAmount(int)
+comment3.text=\n\ Adds\ a\ particular\ amount\ of\ Quanta.\n\ \n\ @param\ addAmount\ The\ amount\ being\ added.\n
+numComments=4

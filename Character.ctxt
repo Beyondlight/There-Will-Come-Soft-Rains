@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ getName()
+comment0.text=\n\ The\ accessor\ for\ the\ NPC's\ name.\n\ \n\ @return\ The\ NPC's\ name.a\n
+comment1.params=
+comment1.target=java.lang.String\ getTriggerWord()
+comment1.text=\n\ The\ accessor\ for\ the\ NPC's\ trigger\ word.\n\ \n\ @return\ The\ NPC's\ trigger\ word.\n
+numComments=2

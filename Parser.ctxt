@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Parser()
+comment0.text=\n\ Create\ a\ parser\ to\ read\ from\ the\ terminal\ window.\n
+comment1.params=changeCase
+comment1.target=java.lang.String\ getResponse(boolean)
+comment1.text=\n\ Return\ the\ response\ to\ a\ question.\n\n\ @param\ changeCase\n\ \ \ \ \ \ \ \ \ \ \ \ Whether\ the\ input\ should\ be\ converted\ to\ all\ lower\ case\n\ \ \ \ \ \ \ \ \ \ \ \ characters.\n\ @return\ The\ response\ typed\ in\ by\ the\ user.\n
+comment2.params=
+comment2.target=Command\ getCommand()
+comment2.text=\n\ Returns\ the\ next\ command\ from\ the\ user.\n\ @return\ The\ next\ command\ from\ the\ user.\n
+comment3.params=
+comment3.target=java.lang.String\ getCommandString()
+comment3.text=\n\ Return\ a\ list\ of\ the\ available\ commands,\ of\ the\ form\:\ *\ Your\ command\ words\ are\:\n\ look\ go\ quit\ help.\n\ *\ @return\ A\ string\ containing\ the\ list\ of\ available\ commands.\n
+numComments=4

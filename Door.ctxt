@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=boolean\ isLocked()
+comment0.text=\n\ A\ getter\ for\ whether\ this\ door\ is\ locked.\n\ @return\ Whether\ this\ door\ is\ locked.\n
+comment1.params=locked
+comment1.target=void\ setLocked(boolean)
+comment1.text=\n\ A\ setter\ for\ whether\ this\ door\ is\ locked.\n\ @param\ locked\ Whether\ this\ door\ is\ locked.\n
+numComments=2

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=theName\ theSignoff
+comment0.target=Conversation(java.lang.String,\ java.lang.String)
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ Conversation.\n\ \n\ @param\ theName\ The\ name\ of\ the\ NPC.\n\ @param\ theSignoff\ The\ custom\ sign-off\ text.\n
+comment1.params=keyword\ reply
+comment1.target=void\ addReply(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Add\ a\ reply\ to\ the\ choices\ of\ replies\ that\ the\ NPC\ can\ make.\n\ Each\ reply\ should\ either\ contain\ the\ sign-off\ text\ (to\ end\ the\ conversation),\ or\ provide\ multiple-choice\ responses\ for\ the\ Player\ (this\ is\ a\ simple\ conversation\ scenario\ and\ one\ we\ can\ do\ easily).\n\ See\ the\ text\ in\ the\ startConversation\ method\ comment\ as\ an\ example.\n\ \n\ @param\ keyword\ The\ keyword\ for\ each\ reply.\n\ @param\ reply\ The\ associated\ reply.\n
+comment2.params=key
+comment2.target=java.lang.String\ startConversation(java.lang.String)
+comment2.text=\n\ This\ method\ uses\ the\ replies\ you\ set\ up\ using\ the\ addReply\ method\ to\ have\ a\ conversation\ with\ the\ player.\n\ \n\ For\ example\:\n\ \ \ \ \ \ Sam\:\ My\ job\ here\ is\ to\ help\ you\ win.\ \ So\ what\ can\ I\ do\ for\ you?\n\ \ \ \ \ \ \ \ \ \ A\:\ You\ can\ give\ me\ the\ key\ that\ I\ need.\n\ \ \ \ \ \ \ \ \ \ B\:\ You\ can\ make\ it\ so\ that\ I\ win\ the\ game\ right\ now.\n\ \ \ \ \ \ \ \ \ \ C\:\ You\ can\ go\ jump\ off\ a\ bridge.\n\ \ \ \ \ \ Enter\ the\ letter\ of\ your\ response\:\ B\n\ \ \ \ \ \ Sam\:\ That's\ easy\ ...\ you\ win\!\ \ Goodbye.\n\ \ \ \ \ \ \n\ @param\ key\ The\ keyword\ that\ starts\ the\ conversation.\n\ @return\ The\ key\ at\ the\ stop\ of\ the\ conversation\ so\ the\ game\ can\ react\ if\ appropriate.\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\n\ Returns\ the\ name\ of\ the\ NPC.\n\ \n\ @return\ The\ NPC's\ name.\n
+numComments=4

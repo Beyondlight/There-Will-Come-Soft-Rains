@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name\ description\ weight
+comment0.target=Item(java.lang.String,\ java.lang.String,\ int)
+comment0.text=\n\ Constructs\ a\ new\ item.\n\ \n\ @param\ name\ The\ name\ of\ the\ item.\n\ @param\ description\ The\ description\ of\ the\ item.\n\ @param\ weight\ The\ weight\ of\ the\ item.\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\n\ Returns\ the\ item's\ name.\n\ \n\ @return\ The\ item's\ name.\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\n\ Returns\ the\ item's\ description.\n\ \n\ @return\ The\ description\ of\ the\ item.\n
+comment3.params=
+comment3.target=int\ getWeight()
+comment3.text=\n\ Returns\ the\ item's\ weight.\n\ \n@return\ The\ weight\ of\ the\ item.
+comment4.params=description
+comment4.target=void\ setDescription(java.lang.String)
+comment4.text=\n\ Mutator\ for\ the\ item's\ description.\n\ \n\ @param\ description\ The\ item's\ new\ description.\n
+comment5.params=weight
+comment5.target=void\ setWeight(int)
+comment5.text=\n\ Mutator\ for\ the\ item's\ weight.\n\ \n\ @param\ weight\ The\ item's\ new\ weight.\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\n\ Returns\ a\ string\ that\ represents\ the\ item.\n\n@return\ Returns\ a\ string\ that\ represents\ the\ item.
+numComments=7
